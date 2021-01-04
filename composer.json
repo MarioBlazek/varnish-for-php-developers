@@ -1,0 +1,19 @@
+{
+    "name": "marioblazek/varnish-for-php-developers",
+    "description": "A simple Varnish tutorial for PHP developers",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mario Blažek",
+            "email": "blazek.mario@gmail.com"
+        }
+    ],
+    "require": {
+        "friendsofsymfony/http-cache": "~2.0",
+        "php-http/guzzle6-adapter": "*"
+    },
+    "scripts": {
+        "serve": "@php -S localhost:7777"
+    }
+}

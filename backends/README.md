@@ -1,6 +1,6 @@
 # Backends
 
-```
+```vcl
 backend backend1 {
     .host = "127.0.0.1";
     .port = "7777";

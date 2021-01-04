@@ -1,6 +1,6 @@
 # ESI
 
-```
+```vcl
 sub vcl_recv {
     set req.http.Surrogate-Capatibility="key=ESI/1.0";
 }

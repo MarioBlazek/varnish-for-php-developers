@@ -13,4 +13,5 @@
 1. [Response tagging](tagging)
 1. [Backends](backends)
 1. [ESI](esi)
+1. [Debugging](debugging)
 
